@@ -658,4 +658,179 @@ export const products: Product[] = [
 ✅ Issiqxona va ochiq dalada yuqori hosil beradi
 `,
   },
+  {
+    id: '19',
+    title: 'Stella salat ',
+    image: '/products/stella.jpg',
+    description: `
+🥬 Stella salat (Lettuce "Stella")
+
+🔹 Umumiy tavsif
+- Turi: Bargli salat
+- Rangi: Yorqin yashil
+- Barg tuzilishi: Jingalak yoki yarim jingalak, mayin
+- Ta’mi: Yengil, shirador
+- Vegetatsiya muddati: 35–50 kun (tezpishar)
+- Og‘irligi: 250–400 g (parvarishga qarab)
+
+🔹 Afzalliklari
+✅ Tez o‘sadi, erta bozorga chiqadi  
+✅ Barglari silliq va ko‘rinishi chiroyli
+`,
+  },
+
+  {
+    id: '20',
+    title: 'Hanna selderey',
+    image: '/products/hanna.jpg',
+    description: `
+🌿 Hanna selderey
+
+🔹 Umumiy tavsif
+- Turi: Selderey (barg-bandli, ko‘pincha bandi uchun)
+- Pishish muddati: O‘rtacha, 80–95 kun
+- Yetishtirish joyi: Ochiq dala va issiqxona
+- Iqlimga mosligi: Mo‘tadil va issiq iqlimga mos
+
+🔹 O‘simlik xususiyatlari
+- Rozetkasi: Kuchli, tik o‘suvchi
+- Barglari: To‘q yashil, xushbo‘y
+- Bandlari: Qalin, silliq, tolasi kam
+- Bir xilligi: Juda yaxshi, ko‘rinishi chiroyli
+
+🔹 Mahsulot sifati
+- Ta’mi: Xushbo‘y
+- Rangi: Yorqin yashil
+- Saqlanishi: Yaxshi, tashishga chidamli
+
+🔹 Hosildorligi
+- Yuqori va barqaror
+- Bir necha marta o‘rib olish mumkin (barg uchun)
+
+🔹 Chidamliligi
+- Issiq stressga bardoshli
+- Asosiy kasalliklarga barqaror
+- Erta gulga chiqib ketmaydi
+
+🔹 Foydalanish
+✅ Yangi iste’mol (salat, sho‘rva)  
+✅ Quritish  
+✅ Ko‘kat sifatida bozor savdosi  
+✅ Sanoat qayta ishlash
+`,
+  },
+
+  {
+    id: '21',
+    title: 'Fest bulg‘or qalampiri',
+    image: '/products/fest.jpg',
+    description: `
+🫑 Fest bulg‘or qalampiri
+
+🔹 Umumiy tavsif
+- Turi: Nav (ba’zan gibrid)
+- Pishish muddati: Erta–o‘rtacha, 90–100 kun
+- O‘sish turi: O‘rtacha bo‘yli (50–70 sm)
+- Yetishtirish joyi: Ochiq dala va issiqxona
+- Iqlimga mosligi: Issiq va o‘rtacha sovuqqa chidamli
+
+🔹 Mevasi
+- Rangi: To‘q qizil (pishganda)
+- Shakli: Dumaloq–kubik, biroz konusga yaqin
+- O‘rtacha vazni: 120–150 g
+- Go‘shti: Qalin va shirador
+- Devor qalinligi: 6–8 mm
+- Ta’mi: Shirin, nordonligi minimal
+
+🔹 Hosildorligi
+- Bir tupdan 3–4 kg hosil beradi
+- Mevalari bir xil kattalikda, saralash va terim oson
+
+🔹 Afzalliklari
+✅ Bozorda chiroyli va talab yuqori  
+✅ Salat, to‘ldirilgan taomlar va qovurish uchun ideal  
+✅ Tashishga va saqlashga yaxshi chidamli  
+✅ Ochiq dala va issiqxona uchun mos
+`,
+  },
+
+  {
+    id: '22',
+    title: 'Rio Grande pomidori',
+    image: '/products/rio-grande.jpg',
+    description: `
+🍅 Rio Grande pomidori
+
+🔹 Umumiy tavsif
+- Turi: Nav (gibrid emas)
+- Butun dunyoda mashhur, ochiq dala va qayta ishlash uchun juda qulay
+- Pishish muddati: O‘rtacha–erta, 95–110 kun
+- O‘sish turi: Determinant (past bo‘yli)
+- Bo‘yi: 60–80 sm
+- Yetishtirish joyi: Ochiq dala (issiqqa chidamli)
+
+🔹 Mevasi
+- Rangi: To‘q qizil
+- Shakli: Cho‘zinchoq (slivaga o‘xshash)
+- O‘rtacha vazni: 90–120 g
+- Go‘shti: Juda zich, suv kam
+- Po‘sti: Qalin — yorilmaydi
+- Ta’mi: Shirin-nordon, texnik nav
+
+🔹 Hosildorligi
+- Barqaror va yaxshi
+- Bir tupdan 3–4 kg
+- Mevalar bir vaqtda pishadi — terim qulay
+
+🔹 Afzalliklari
+✅ Issiq va qurg‘oqchilikka chidamli  
+✅ Kasalliklarga nisbatan barqaror  
+✅ Saqlash va tashishga juda mos  
+✅ O‘zidan urug‘ olish mumkin  
+✅ Pasta, ketchup va konserva uchun ideal
+`,
+  },
+
+  {
+    id: '23',
+    title: 'Dark Root (Qora turup)',
+    image: '/products/dark-root.jpg',
+    description: `
+🫜 Dark Root (Qora turup)
+
+🔹 Umumiy tavsif
+- Turi: Qora turup (qora rediska)
+- Nav: Dark Root
+- Pishish muddati: O‘rtacha–kech (70–90 kun)
+- Yetishtirish joyi: Ochiq dala
+- Iqlimga mosligi: Sovuqqa chidamli, kuzgi ekin
+
+🔹 O‘simlik xususiyatlari
+- Bargi: Katta, kuchli
+- Ildizi: Yer ostida yaxshi rivojlanadi
+- Parvarishi: Oson, talabchan emas
+
+🔹 Mevasi (ildizmeva)
+- Shakli: Dumaloq
+- O‘lchami: Yirik
+- Po‘stlog‘i: Qora, qalin
+- Ichki qismi: Oqartir, zich
+- Ta’mi: O‘tkir, achchiqroq (xos turup ta’mi)
+
+🔹 Hosildorligi
+- Barqaror va yaxshi
+- Saqlashga juda qulay (qishda uzoq turadi)
+
+🔹 Chidamliligi
+- Sovuqqa chidamli
+- Yorilib ketishga kam moyil
+- Kasalliklarga nisbatan bardoshli
+
+🔹 Foydalanish
+✅ Dorivor maqsadda (yo‘tal, immunitet)  
+✅ Salatlar  
+✅ Sharbat  
+✅ Qishki saqlash
+`,
+  },
 ];
