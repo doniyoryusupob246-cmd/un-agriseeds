@@ -75,12 +75,12 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
               </p>
 
               {/* Quantity and Add to Cart */}
-              <div className="mt-8 flex items-center gap-4">
+              <Link href="https://t.me/Bio_geneticseeds" className="mt-8 flex items-center gap-4">
                 <Button className="flex-1 h-12 bg-blue-900 text-white hover:bg-blue-800">
                   <Phone className="mr-2 size-5" />
                   Batafsil
                 </Button>
-              </div>
+              </Link>
             </div>
           </div>
         </div>

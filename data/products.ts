@@ -307,7 +307,6 @@ export const products: Product[] = [
 - Po‘sti: Yupqa, ammo tez pishadi va dekorativ
 
 🔹 Hosildorligi
-- Bir tupdan bir necha marta terib olish mumkin
 - Mevalari bir xil kattalikda, terim oson
 
 🔹 Afzalliklari
@@ -339,10 +338,34 @@ export const products: Product[] = [
   },
   {
     id: '13',
-    title: 'Sofiya',
+    title: 'Sofiya Rediska',
     image: '/products/sofiya.jpg',
-    description:
-      'Slender purple fruits with creamy texture. Less bitter than traditional varieties.',
+    description: `
+🌱 Sofiya Rediska
+
+🔹 Umumiy tavsif
+- Turi: Redis (nav), ko‘pincha gibrid
+- Pishish muddati: 30–35 kun
+- O‘sish turi: Past, kompakt, shoxlanmaydi
+- Yetishtirish joyi: Ochiq dala
+- Iqlimga mosligi: Issiq va o‘rtacha sovuqqa chidamli
+
+🔹 Mevasi
+- Rangi: Qizil
+- Shakli: Dumaloq
+- O‘rtacha vazni: 25–35 g
+- Ta’mi: Shirin, nordonligi minimal
+- Po‘sti: Yupqa, tez pishadi va dekorativ
+
+🔹 Hosildorligi
+- Mevalari bir xil kattalikda, terim oson
+
+🔹 Afzalliklari
+✅ Juda tez pishadi (30–35 kun)  
+✅ Salat va yangi iste’mol uchun ideal  
+✅ Ochiq dala uchun mos  
+✅ Bolalar va dekorativ salatlar uchun jozibador
+`,
   },
   {
     id: '14',
