@@ -320,21 +320,109 @@ export const products: Product[] = [
     id: '10',
     title: 'White Star',
     image: '/products/white-star.png',
-    description:
-      'Ancient variety with deep purple exterior. Sweet flavor and packed with antioxidants.',
+    description: `
+🧅 White Star
+
+🔹 Umumiy tavsif
+- Turi: Oq piyoz (White Onion)
+- Gibrid: F1
+- Kompaniya: UNagriseds
+
+🔹 Asosiy xususiyatlari
+- Pishish muddati: O‘rtacha erta–o‘rtacha (110–120 kun)
+- Boshi: Yirik, dumaloq, bir xil o‘lchamli
+- Rangi: Ichki va tashqi qismi sof oq
+- Po‘sti: Yupqa, silliq
+- Ta’mi: Yumshoq, achchiqligi past — salat va yangi iste’mol uchun juda qulay
+
+🔹 Hosildorligi
+- 80–120 t/ga
+- Yuqori, maydonda bir xil pishadi
+
+🔹 Saqlanishi va moslashuvchanligi
+- Oqartirilgan piyozlar ichida yaxshi saqlanadigan navlardan
+- Turli iqlim sharoitlariga mos
+- Sanoat ekinlari uchun qulay
+
+🔹 Afzalliklari
+✅ Bozorbop ko‘rinish (oq, yirik, bir xil)  
+✅ Transportga chidamli  
+✅ Kasalliklarga nisbatan barqaror  
+✅ Ulgurji savdo va eksport uchun mos
+`,
   },
   {
     id: '11',
     title: 'Yellow Spanish',
     image: '/products/yellow-spanish.jpg',
-    description: 'Bright yellow summer squash. Prolific producer perfect for grilling.',
+    description: `
+🧅 Yellow Spanish
+
+🔹 Umumiy tavsif
+- Turi: Sariq piyoz (Yellow onion)
+- Mashhur nomi: Yellow Spanish / Sweet Spanish
+- Qo‘llanilishi: Universal (yangi iste’mol va pishirish uchun mos)
+
+🔹 Asosiy xususiyatlari
+- Pishish muddati: 100–120 kun (o‘rtacha)
+- Boshi: Yirik, dumaloq yoki biroz yassi
+- Rangi: Tashqi po‘sti sariq–oltinrang, ichi oq
+- Ta’mi: Yumshoq, biroz shirin, achchiqligi past
+- Og‘irligi: 200–400 g (parvarishga qarab undan ham yirik bo‘ladi)
+
+🔹 Afzalliklari
+✅ Juda hosildor  
+✅ Bozorbop ko‘rinish (katta va bir xil)  
+✅ Saqlanishi yaxshi (3–5 oy)  
+✅ Transportga chidamli
+`,
   },
   {
     id: '12',
     title: "Shantane sabzi urug'i",
     image: '/products/shantane.jpg',
-    description:
-      'Slender purple fruits with creamy texture. Less bitter than traditional varieties.',
+    description: `
+🥕 Shantane (Chantenay)
+
+🔹 Umumiy tavsif
+- Turi: Stolbop sabzi
+- Nav guruhi: Chantenay (Shantane)
+- Kelib chiqishi: Fransiya
+
+🔹 Asosiy xususiyatlari
+- Pishish muddati: O‘rtacha (90–110 kun)
+- Shakli: Kalta, konussimon, uchi to‘mtoq
+- Uzunligi: 12–15 sm
+- Diametri: Keng, yo‘g‘on
+- Rangi: To‘q qizil
+- Yadrosi: Kichik, rang jihatdan bir xil
+
+🔹 Ta’mi va sifati
+- Juda shirin
+- Go‘shti zich, suvli
+- Yorilishga va shakl buzilishiga kam moyil
+
+🔹 Afzalliklari
+✅ Og‘ir tuproqlarda ham yaxshi o‘sadi  
+✅ Bir xil o‘lchamli hosil  
+✅ Hosildorligi yuqori  
+✅ Mexanik yig‘im-terimga mos  
+✅ Saqlashga chidamli  
+
+🔹 Yetishtirish sharoiti
+- Tuproq: O‘rtacha va og‘ir tuproqlarga mos
+- Ekish chuqurligi: 1,5–2 sm
+- Qator oralig‘i: 25–30 sm
+- Sug‘orish: Me’yorida, muntazam
+
+🔹 Hosildorligi
+- O‘rtacha 40–60 t/ga
+- Yaxshi agrotexnikada undan ham yuqori
+
+🔹 Bozor uchun qulayligi
+- Ko‘rinishi chiroyli
+- Transportga chidamli
+`,
   },
   {
     id: '13',
